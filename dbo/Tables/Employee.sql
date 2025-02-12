@@ -4,5 +4,6 @@
 	EmployeeName Nvarchar(100),
 	Designation Nvarchar(100),
 	Salary int,
-	DateOfJoining nvarchar(100)
+	DateOfJoining date,
+	BloodGroup nvarchar(10)
 )
