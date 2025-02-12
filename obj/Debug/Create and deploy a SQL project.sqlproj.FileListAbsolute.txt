@@ -1,0 +1,10 @@
+C:\Users\SaiBhargavGorre\OneDrive - Xyenta Limited\Desktop\Divis\Create and deploy a SQL project\SQLProject\bin\Debug\Create and deploy a SQL project.dacpac
+C:\Users\SaiBhargavGorre\OneDrive - Xyenta Limited\Desktop\Divis\Create and deploy a SQL project\SQLProject\bin\Debug\Create_and_deploy_a_SQL_project.dll
+C:\Users\SaiBhargavGorre\OneDrive - Xyenta Limited\Desktop\Divis\Create and deploy a SQL project\SQLProject\bin\Debug\Create_and_deploy_a_SQL_project.pdb
+C:\Users\SaiBhargavGorre\OneDrive - Xyenta Limited\Desktop\Divis\Create and deploy a SQL project\SQLProject\obj\Debug\Create and deploy a SQL project.sqlproj.AssemblyReference.cache
+C:\Users\SaiBhargavGorre\OneDrive - Xyenta Limited\Desktop\Divis\Create and deploy a SQL project\SQLProject\obj\Debug\Model.xml
+C:\Users\SaiBhargavGorre\OneDrive - Xyenta Limited\Desktop\Divis\Create and deploy a SQL project\SQLProject\obj\Debug\refactor.xml
+C:\Users\SaiBhargavGorre\OneDrive - Xyenta Limited\Desktop\Divis\Create and deploy a SQL project\SQLProject\obj\Debug\postdeploy.sql
+C:\Users\SaiBhargavGorre\OneDrive - Xyenta Limited\Desktop\Divis\Create and deploy a SQL project\SQLProject\obj\Debug\predeploy.sql
+C:\Users\SaiBhargavGorre\OneDrive - Xyenta Limited\Desktop\Divis\Create and deploy a SQL project\SQLProject\obj\Debug\Create_and_deploy_a_SQL_project.dll
+C:\Users\SaiBhargavGorre\OneDrive - Xyenta Limited\Desktop\Divis\Create and deploy a SQL project\SQLProject\obj\Debug\Create_and_deploy_a_SQL_project.pdb
