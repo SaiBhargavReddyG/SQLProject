@@ -3,5 +3,6 @@
 	[Id] INT NOT NULL PRIMARY KEY,
 	EmployeeName Nvarchar(100),
 	Designation Nvarchar(100),
-	Salary int
+	Salary int,
+	DateOfJoining nvarchar(100)
 )
